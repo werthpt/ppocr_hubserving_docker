@@ -1,0 +1,2 @@
+# ppocr_hubserving_docker
+基于paadleocr生成本地镜像
